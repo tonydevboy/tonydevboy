@@ -1,7 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Yo,+My+name+is+Tony;I'm+14+years+old;I'm+from+Brazil;I+Graduated+High+School+Welcome!+:%29)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Yo,+My+name+is+Tony;I'm+14+years+old;I'm+from+Brazil;I+Graduated+High+School;Welcome!+:%29)](https://git.io/typing-svg)
 
 [![tonydevboy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tonydevboy&bg_color=00008B&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -15,7 +14,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/is_tony33" target="blank">
+  <a href="https://instagram.com/is_tony33" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
@@ -31,7 +30,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonydevboy&color=ff69b4&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=tonydevboy&color=ff69b4&style=flat" />
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
