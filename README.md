@@ -1,4 +1,3 @@
-<!-- Top animated header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Yo,+My+name+is+Tony;I'm+14+years+old;I'm+from+Brazil;I+Graduated+High+School;Welcome!+:%29)](https://git.io/typing-svg)
@@ -34,5 +33,4 @@
   <img src="https://komarev.com/ghpvc/?username=tonydevboy&color=ff69b4&style=flat" />
 </div>
 
-<!-- Bottom animated footer (flipped version) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
